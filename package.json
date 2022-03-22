@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@terra-money/terra.js": "^3.0.2",
+    "glob": "^7.2.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

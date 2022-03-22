@@ -1,0 +1,1 @@
+terrad tx wasm instantiate 37637 '{"name":"Terra Playing Cards","symbol":"CARDS","minter":"terra1z75w0td9urxkh254jwqd5m8pd6ulqjfdjsxpj5"}'  --from terra --chain-id=bombay-12 --gas=auto --fees=255343uluna --node  http://165.227.56.47:26657 --broadcast-mode=block -y

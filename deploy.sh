@@ -1,0 +1,1 @@
+terrad tx wasm store cw721-metadata-onchain/artifacts/cw721_metadata_onchain.wasm --from terra --chain-id=bombay-12 --gas-adjustment=1.5 --gas=auto --fees=355343uluna --node http://165.227.56.47:26657  --broadcast-mode=block -y
